@@ -1,0 +1,3 @@
+<!--pages/dire/dire.wxml-->
+<text>{{dinc}}</text>
+<button bindtap="getDirection">direction</button>
